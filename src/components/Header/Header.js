@@ -31,14 +31,14 @@ const Header = () =>  (
         </Link>
       </li>        
     </Div2>
-      <Div3>
-        <SocialIcons href="https://google.com">
+          <Div3>
+        <SocialIcons href="https://github.com/ahmed3520">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.linkedin.com/in/ahmed-taha-0187ba19a/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.instagram.com/_ahmed352_/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>
